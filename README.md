@@ -1,14 +1,14 @@
 # 0xrzkyx
 
-# about
+# About
 Into systematic and algoritmic. System, Paradox, Performance. money (as computational system), computational linguistic, and agent system. gym and cardio maxxing
 
 
-# expertise
+# Expertise
 - Computational linguistic 
 - Software engineering
 
-# education 
+# Education 
 - Universitas Gadjah Mada, bachelor of Computer Science
 - Exchange at University of Pennsylvania
 
